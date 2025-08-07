@@ -1,0 +1,20 @@
+# macOS system files (if you're on a Mac)
+.DS_Store
+
+# VS Code settings folder (optional to ignore)
+.vscode/
+
+# Log files
+*.log
+
+# Dependency folder (if you use npm later)
+node_modules/
+
+# Output folders from build tools (if you use one later)
+dist/
+build/
+
+# Temporary or swap files
+*.tmp
+*.swp
+*.swo
